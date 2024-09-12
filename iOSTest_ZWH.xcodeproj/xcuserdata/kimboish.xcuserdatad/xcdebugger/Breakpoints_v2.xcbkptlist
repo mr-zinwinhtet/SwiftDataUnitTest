@@ -1,0 +1,479 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "9C30A6AD-8A97-4E71-AFB3-9EB19BBE02BD"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4EDCCBEF-B6AF-491E-BE3A-A0E112AF6FE7"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "iOSTest_ZWH/Controllers/CustomerDetailVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "165"
+            endingLineNumber = "165"
+            landmarkName = "saveButtonTapped()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "4EDCCBEF-B6AF-491E-BE3A-A0E112AF6FE7 - dedb30642a12e21c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "iOSTest_ZWH.CustomerDetailVC.saveButtonTapped() -&gt; ()"
+                  moduleName = "iOSTest_ZWH"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zinwinhtet/Desktop/Workspace/iOSTest_ZWH/iOSTest_ZWH/Controllers/CustomerDetailVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "231"
+                  endingLineNumber = "231"
+                  offsetFromSymbolStart = "636">
+               </Location>
+               <Location
+                  uuid = "4EDCCBEF-B6AF-491E-BE3A-A0E112AF6FE7 - dedb30642a12e21c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "iOSTest_ZWH.CustomerDetailVC.saveButtonTapped() -&gt; ()"
+                  moduleName = "iOSTest_ZWH"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zinwinhtet/Desktop/Workspace/iOSTest_ZWH/iOSTest_ZWH/Controllers/CustomerDetailVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "231"
+                  endingLineNumber = "231"
+                  offsetFromSymbolStart = "872">
+               </Location>
+               <Location
+                  uuid = "4EDCCBEF-B6AF-491E-BE3A-A0E112AF6FE7 - dedb30642a12e82d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "iOSTest_ZWH.CustomerDetailVC.saveButtonTapped() -&gt; ()"
+                  moduleName = "iOSTest_ZWH"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zinwinhtet/Desktop/Workspace/iOSTest_ZWH/iOSTest_ZWH/Controllers/CustomerDetailVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "152"
+                  endingLineNumber = "152"
+                  offsetFromSymbolStart = "644">
+               </Location>
+               <Location
+                  uuid = "4EDCCBEF-B6AF-491E-BE3A-A0E112AF6FE7 - dedb30642a12e82d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "iOSTest_ZWH.CustomerDetailVC.saveButtonTapped() -&gt; ()"
+                  moduleName = "iOSTest_ZWH"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zinwinhtet/Desktop/Workspace/iOSTest_ZWH/iOSTest_ZWH/Controllers/CustomerDetailVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "152"
+                  endingLineNumber = "152"
+                  offsetFromSymbolStart = "884">
+               </Location>
+               <Location
+                  uuid = "4EDCCBEF-B6AF-491E-BE3A-A0E112AF6FE7 - dedb30642a12e8cc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "iOSTest_ZWH.CustomerDetailVC.saveButtonTapped() -&gt; ()"
+                  moduleName = "iOSTest_ZWH"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zinwinhtet/Desktop/Workspace/iOSTest_ZWH/iOSTest_ZWH/Controllers/CustomerDetailVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "151"
+                  endingLineNumber = "151"
+                  offsetFromSymbolStart = "644">
+               </Location>
+               <Location
+                  uuid = "4EDCCBEF-B6AF-491E-BE3A-A0E112AF6FE7 - dedb30642a12e8cc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "iOSTest_ZWH.CustomerDetailVC.saveButtonTapped() -&gt; ()"
+                  moduleName = "iOSTest_ZWH"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zinwinhtet/Desktop/Workspace/iOSTest_ZWH/iOSTest_ZWH/Controllers/CustomerDetailVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "151"
+                  endingLineNumber = "151"
+                  offsetFromSymbolStart = "884">
+               </Location>
+               <Location
+                  uuid = "4EDCCBEF-B6AF-491E-BE3A-A0E112AF6FE7 - dedb30642a12e80a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "iOSTest_ZWH.CustomerDetailVC.saveButtonTapped() -&gt; ()"
+                  moduleName = "iOSTest_ZWH"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zinwinhtet/Desktop/Workspace/iOSTest_ZWH/iOSTest_ZWH/Controllers/CustomerDetailVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "153"
+                  endingLineNumber = "153"
+                  offsetFromSymbolStart = "644">
+               </Location>
+               <Location
+                  uuid = "4EDCCBEF-B6AF-491E-BE3A-A0E112AF6FE7 - dedb30642a12e80a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "iOSTest_ZWH.CustomerDetailVC.saveButtonTapped() -&gt; ()"
+                  moduleName = "iOSTest_ZWH"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zinwinhtet/Desktop/Workspace/iOSTest_ZWH/iOSTest_ZWH/Controllers/CustomerDetailVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "153"
+                  endingLineNumber = "153"
+                  offsetFromSymbolStart = "884">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "994755EE-16C1-4A96-83E1-97ABC6185E23"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "iOSTest_ZWH/Services/CustomerService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "79"
+            endingLineNumber = "79"
+            landmarkName = "deleteCustomer(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "994755EE-16C1-4A96-83E1-97ABC6185E23 - 30f37bc561cedc67"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "iOSTest_ZWH.CustomerService.deleteCustomer(iOSTest_ZWH.Customer) throws -&gt; ()"
+                  moduleName = "iOSTest_ZWH"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zinwinhtet/Desktop/Workspace/iOSTest_ZWH/iOSTest_ZWH/Services/CustomerService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "79"
+                  endingLineNumber = "79"
+                  offsetFromSymbolStart = "64">
+               </Location>
+               <Location
+                  uuid = "994755EE-16C1-4A96-83E1-97ABC6185E23 - 89fdd7874eb5d03f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "iOSTest_ZWHTests.CustomerService.deleteCustomer(iOSTest_ZWHTests.Customer) throws -&gt; ()"
+                  moduleName = "iOSTest_ZWHTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zinwinhtet/Desktop/Workspace/iOSTest_ZWH/iOSTest_ZWH/Services/CustomerService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "79"
+                  endingLineNumber = "79"
+                  offsetFromSymbolStart = "64">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "84EF44E8-D7C3-452A-828E-7E1F8990EC8F"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "iOSTest_ZWH/Services/CustomerService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "105"
+            endingLineNumber = "105"
+            landmarkName = "saveContext()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "84EF44E8-D7C3-452A-828E-7E1F8990EC8F - 30bd40547a17fe66"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "iOSTest_ZWH.CustomerService.saveContext() throws -&gt; ()"
+                  moduleName = "iOSTest_ZWH"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zinwinhtet/Desktop/Workspace/iOSTest_ZWH/iOSTest_ZWH/Services/CustomerService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "85"
+                  endingLineNumber = "85"
+                  offsetFromSymbolStart = "60">
+               </Location>
+               <Location
+                  uuid = "84EF44E8-D7C3-452A-828E-7E1F8990EC8F - 30bd40547a17f1fa"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "iOSTest_ZWH.CustomerService.saveContext() throws -&gt; ()"
+                  moduleName = "iOSTest_ZWH"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zinwinhtet/Desktop/Workspace/iOSTest_ZWH/iOSTest_ZWH/Services/CustomerService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "97"
+                  endingLineNumber = "97"
+                  offsetFromSymbolStart = "60">
+               </Location>
+               <Location
+                  uuid = "84EF44E8-D7C3-452A-828E-7E1F8990EC8F - 7b832f8bae944eca"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "iOSTest_ZWHTests.CustomerService.saveContext() throws -&gt; ()"
+                  moduleName = "iOSTest_ZWHTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zinwinhtet/Desktop/Workspace/iOSTest_ZWH/iOSTest_ZWH/Services/CustomerService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "97"
+                  endingLineNumber = "97"
+                  offsetFromSymbolStart = "60">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "171BCDA3-446F-4AE9-A650-EF29FF400184"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "iOSTest_ZWH/Controllers/CustomerDetailVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "99"
+            endingLineNumber = "99"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "171BCDA3-446F-4AE9-A650-EF29FF400184 - 8493a7f51020e101"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in closure #2 () -&gt; () in iOSTest_ZWH.CustomerDetailVC.viewDidLoad() -&gt; ()"
+                  moduleName = "iOSTest_ZWH"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zinwinhtet/Desktop/Workspace/iOSTest_ZWH/iOSTest_ZWH/Controllers/CustomerDetailVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "95"
+                  endingLineNumber = "95"
+                  offsetFromSymbolStart = "48">
+               </Location>
+               <Location
+                  uuid = "171BCDA3-446F-4AE9-A650-EF29FF400184 - 8493a7f51020e160"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in closure #2 () -&gt; () in iOSTest_ZWH.CustomerDetailVC.viewDidLoad() -&gt; ()"
+                  moduleName = "iOSTest_ZWH"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zinwinhtet/Desktop/Workspace/iOSTest_ZWH/iOSTest_ZWH/Controllers/CustomerDetailVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "96"
+                  endingLineNumber = "96"
+                  offsetFromSymbolStart = "48">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B78468FC-EA57-4477-90B3-26B3339EB878"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "iOSTest_ZWH/Controllers/CustomerDetailVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "233"
+            endingLineNumber = "233"
+            landmarkName = "didUpdateCar()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "B78468FC-EA57-4477-90B3-26B3339EB878 - 9f5c200936c37de5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "iOSTest_ZWH.CustomerDetailVC.didUpdateCar() -&gt; ()"
+                  moduleName = "iOSTest_ZWH"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zinwinhtet/Desktop/Workspace/iOSTest_ZWH/iOSTest_ZWH/Controllers/CustomerDetailVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "219"
+                  endingLineNumber = "219"
+                  offsetFromSymbolStart = "220">
+               </Location>
+               <Location
+                  uuid = "B78468FC-EA57-4477-90B3-26B3339EB878 - 9f5c200936c37dbb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "iOSTest_ZWH.CustomerDetailVC.didUpdateCar() -&gt; ()"
+                  moduleName = "iOSTest_ZWH"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zinwinhtet/Desktop/Workspace/iOSTest_ZWH/iOSTest_ZWH/Controllers/CustomerDetailVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "221"
+                  endingLineNumber = "221"
+                  offsetFromSymbolStart = "220">
+               </Location>
+               <Location
+                  uuid = "B78468FC-EA57-4477-90B3-26B3339EB878 - 9f5c200936c37d84"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "iOSTest_ZWH.CustomerDetailVC.didUpdateCar() -&gt; ()"
+                  moduleName = "iOSTest_ZWH"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zinwinhtet/Desktop/Workspace/iOSTest_ZWH/iOSTest_ZWH/Controllers/CustomerDetailVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "220"
+                  endingLineNumber = "220"
+                  offsetFromSymbolStart = "220">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B7CCB06E-9350-441E-8513-85B928C396B8"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "iOSTest_ZWH/Controllers/CarDetailVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "162"
+            endingLineNumber = "162"
+            landmarkName = "onRegisterButtonTapped()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "B7CCB06E-9350-441E-8513-85B928C396B8 - 496979357dc3461f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "iOSTest_ZWH.CarDetailVC.onRegisterButtonTapped() -&gt; ()"
+                  moduleName = "iOSTest_ZWH"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zinwinhtet/Desktop/Workspace/iOSTest_ZWH/iOSTest_ZWH/Controllers/CarDetailVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "159"
+                  endingLineNumber = "159"
+                  offsetFromSymbolStart = "1264">
+               </Location>
+               <Location
+                  uuid = "B7CCB06E-9350-441E-8513-85B928C396B8 - 4deeca8d4743f92f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "iOSTest_ZWHTests.CarDetailVC.onRegisterButtonTapped() -&gt; ()"
+                  moduleName = "iOSTest_ZWHTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zinwinhtet/Desktop/Workspace/iOSTest_ZWH/iOSTest_ZWH/Controllers/CarDetailVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "159"
+                  endingLineNumber = "159"
+                  offsetFromSymbolStart = "1264">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0272575F-DF44-43D7-9F09-1926EDF77EB9"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "iOSTest_ZWH/Controllers/CarDetailVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "94"
+            endingLineNumber = "94"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "0272575F-DF44-43D7-9F09-1926EDF77EB9 - e80400d29ac8ba1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (Swift.Error) -&gt; () in iOSTest_ZWH.CarDetailVC.viewDidLoad() -&gt; ()"
+                  moduleName = "iOSTest_ZWH"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zinwinhtet/Desktop/Workspace/iOSTest_ZWH/iOSTest_ZWH/Controllers/CarDetailVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "91"
+                  endingLineNumber = "91"
+                  offsetFromSymbolStart = "80">
+               </Location>
+               <Location
+                  uuid = "0272575F-DF44-43D7-9F09-1926EDF77EB9 - 69a09e9928ba2cbb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "iOSTest_ZWH.CarDetailVC.viewDidLoad() -&gt; ()"
+                  moduleName = "iOSTest_ZWH"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zinwinhtet/Desktop/Workspace/iOSTest_ZWH/iOSTest_ZWH/Controllers/CarDetailVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "94"
+                  endingLineNumber = "94"
+                  offsetFromSymbolStart = "928">
+               </Location>
+               <Location
+                  uuid = "0272575F-DF44-43D7-9F09-1926EDF77EB9 - 8cfe65517180488b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "iOSTest_ZWHTests.CarDetailVC.viewDidLoad() -&gt; ()"
+                  moduleName = "iOSTest_ZWHTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zinwinhtet/Desktop/Workspace/iOSTest_ZWH/iOSTest_ZWH/Controllers/CarDetailVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "94"
+                  endingLineNumber = "94"
+                  offsetFromSymbolStart = "928">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
